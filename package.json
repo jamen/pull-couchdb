@@ -9,10 +9,7 @@
   ],
   "dependencies": {
     "@jamen/query-string": "0.0.0",
-    "node-fetch": "^2.1.2",
-    "pull-fetch": "^1.0.1",
-    "pull-json-parse": "0.0.3",
-    "pull-stream": "^3.6.7"
+    "node-fetch": "^2.1.2"
   },
   "devDependencies": {
     "tape": "^4.9.0"
